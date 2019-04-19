@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/book_ride"
+            android:icon="@drawable/book_ride"
+            android:title="@string/book_ride" />
+
+        <item
+            android:id="@+id/my_trips"
+            android:icon="@drawable/my_trips"
+            android:title="@string/my_trip" />
+
+        <item
+            android:id="@+id/pass_list"
+            android:icon="@drawable/my_pass"
+            android:title="@string/pass_list" />
+
+        <!--<item
+            android:id="@+id/my_pass"
+            android:icon="@drawable/my_pass"
+            android:title="@string/my_pass" />-->
+
+        <item
+            android:id="@+id/drawer_share"
+            android:icon="@drawable/ic_share"
+            android:title="@string/drawer_share" />
+
+        <item
+            android:id="@+id/drawer_sos"
+            android:icon="@drawable/sos_button"
+            android:title="@string/sos" />
+
+        <!--<item
+            android:id="@+id/drawer_exit"
+            android:icon="@drawable/ic_exit"
+            android:title="@string/drawer_exit" />-->
+
+    </group>
+</menu>

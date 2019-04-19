@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1075625923643",
+    "firebase_url": "https://roko-express.firebaseio.com",
+    "project_id": "roko-express",
+    "storage_bucket": "roko-express.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075625923643:android:941e98843af57cd0",
+        "android_client_info": {
+          "package_name": "com.rokoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075625923643-d35ebsiaheuogqf7qg9dbet2d0g5oe9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rokoapp",
+            "certificate_hash": "f07cd702c45cdf771d2a69b501dc200aef475dc5"
+          }
+        },
+        {
+          "client_id": "1075625923643-ck3504q09a8bf979skl2c1pnjk8j0d3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQlBXmcRV1VCmh3yCLb5MKd2C-a5wFFN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075625923643-ck3504q09a8bf979skl2c1pnjk8j0d3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

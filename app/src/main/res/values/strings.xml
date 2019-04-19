@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Roko App</string>
+    <string name="loading">Loading…</string>
+    <string name="razor_pay_key_secret">L7UUycdInTnFFhFkNc4lYeoJ</string>
+    <string name="razor_pay_key_id">rzp_test_3Fhl93MbIZIJso</string>
+    <!--<string name="google_directions_key">AIzaSyCWvJDKVUfvFqUN9sIC3bpFieR89wz1_Hg</string>-->
+    <string name="google_directions_key">AIzaSyBgkPudyt4T5qoWc4ncybHMeds4iJrxGik</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="login_if_you_have_an_account">Login if you already have an <b>Roko</b> account</string>
+    <string name="email_id">Enter Email / Mobile</string>
+    <string name="password">Enter Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register_now">SignUp Here</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="already_member_login_here">Already member? <b>Login Here</b></string>
+    <string name="sign_up">SignUp</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="full_name">Enter Your Name</string>
+    <string name="gender">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="select_date_of_birth">Select Date of Birth</string>
+    <string name="or">OR</string>
+    <string name="drawer_exit">Exit</string>
+    <string name="drawer_share">Refer &amp; Earn</string>
+    <string name="my_trip">My Trips</string>
+    <string name="my_pass">My Pass</string>
+    <string name="book_ride">Book Your Ride</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_google_map">Map</string>
+    <string name="searchText">Search for the Roko stop…</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select_home_location">Select home location</string>
+    <string name="select_office_location">Select office location</string>
+    <string name="find_a_route">Find a route</string>
+    <string name="pass_list">Passes List</string>
+    <string name="mobile_number">Enter Mobile Number</string>
+    <string name="email">Enter Email</string>
+    <string name="user_name">User Name</string>
+    <string name="name">Name</string>
+    <string name="apply_changes">Apply Changes</string>
+    <string name="title_activity_track_my_bus">Map</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="sos">SOS</string>
+    <string name="add_your_sos">Add Your SOS</string>
+    <string name="manage_phone_call_permission"><![CDATA[<html>
+                    <body style="text-align:justify;color:black;">
+                    We are taking your permission to <b>make and manage phone calls</b> to
+                    make sure that our offers and benefits given to you, should reach to you directly.
+                    </body></html>]]>
+    </string>
+    <string name="access_contact_permission"><![CDATA[<html>
+                    <body style="text-align:justify;color:black;">
+                    We are taking your permission to <b>access your contacts</b> to
+                    make sure that in any emergency, you can use <b>SOS Feature</b> and be in touch with your family.
+                    </body></html>]]>
+    </string>
+    <string name="access_sms_permission"><![CDATA[<html>
+                    <body style="text-align:justify;color:black;">
+                    We are taking your permission to <b>send and view sms</b> to
+                    make sure that you can use payment gateway much comfortably.
+                    </body></html>]]>
+    </string>
+    <string name="access_location_permission"><![CDATA[<html>
+                    <body style="text-align:justify;color:black;">
+                    We are taking your permission to <b>access this device\'s location</b> to
+                    make sure that we can provide you service from your nearest stop.
+                    </body></html>]]>
+    </string>
+    <string name="next">Next</string>
+    <string name="email_hint">Email</string>
+    <string name="birth_day">Birthday</string>
+    <string name="gender_hint">Gender</string>
+    <string name="firebase_path">https://roko-express.firebaseio.com/</string>
+    <string name="transport_id">220</string>
+    <string name="notification_text">Roko is tracking Notification</string>
+</resources>
